@@ -40,3 +40,12 @@ window.addEventListener('scroll', _.throttle(() => {
     }
 }, 300));
 // _.throttle(함수,시간)
+
+
+const fadeElements = document.querySelectorAll('.visual .fade-in');
+fadeElements.forEach((fadeElement, index) => {
+    gsap.to(fadeElement, 1, {
+        delay: (index + 1) * 0.6,
+        opacity: 1
+    })
+});
