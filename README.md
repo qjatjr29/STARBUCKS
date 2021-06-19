@@ -10,3 +10,4 @@
 - [x] reset-css
 - [x] Lodash
 - [x] gsap
+- [x] Swiper
