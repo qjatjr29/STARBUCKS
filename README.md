@@ -11,3 +11,4 @@
 - [x] Lodash
 - [x] gsap
 - [x] Swiper
+- [x] Youtube API - IFrame Player API 이용
