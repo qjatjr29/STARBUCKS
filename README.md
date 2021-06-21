@@ -12,3 +12,4 @@
 - [x] gsap
 - [x] Swiper
 - [x] Youtube API - IFrame Player API 이용
+- [x] ScrollMagic
